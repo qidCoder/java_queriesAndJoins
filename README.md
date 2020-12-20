@@ -3,7 +3,7 @@
 ## Countries the JPA version
 In this assignment, you will create the queries for MySQL Countries but using JPA. If you do not have the world database yet, download it here, [world](http://s3.amazonaws.com/General_V88/boomyeah/company_209/chapter_3569/handouts/chapter3569_5432_world.sql), and run it in workbench.
 
-![countries](wirefraame.png)
+![countries](wireframe.png)
 
 **Topics:**
 
